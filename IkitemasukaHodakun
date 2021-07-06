@@ -1,0 +1,16 @@
+{
+  "title": "Ikitemasu-ka, Honda-kun?",
+  "description": "The manga centers on air-headed girl Arisu, who one day receives a confession of love from Honda. However, the world has been taken over by zombies, so it may not be the right time for romance. Arisu tries to live happily in a zombie-filled world, while Honda holds some secrets of his own. Together, the two try to survive in this new world.",
+  "artist": "Tonogai Yoshiki",
+  "author": "Tonogai Yoshiki",
+  "cover": "https://i.imgur.com/RFkQqKQ.jpg",
+  "chapters": {
+    "7": {
+      "volume": "1",
+      "groups": {
+        "SKT": "/proxy/api/imgur/chapter/ZkHtZE3/"
+      },
+      "last_updated": "1625589494"
+    }
+  }
+}
